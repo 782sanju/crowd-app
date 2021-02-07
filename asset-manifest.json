@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crowd-app/static/css/main.997de0ab.chunk.css",
+    "main.js": "/crowd-app/static/js/main.e746ca88.chunk.js",
+    "main.js.map": "/crowd-app/static/js/main.e746ca88.chunk.js.map",
+    "runtime-main.js": "/crowd-app/static/js/runtime-main.d91d1f95.js",
+    "runtime-main.js.map": "/crowd-app/static/js/runtime-main.d91d1f95.js.map",
+    "static/js/2.2fc8cf3a.chunk.js": "/crowd-app/static/js/2.2fc8cf3a.chunk.js",
+    "static/js/2.2fc8cf3a.chunk.js.map": "/crowd-app/static/js/2.2fc8cf3a.chunk.js.map",
+    "static/js/3.77d0580a.chunk.js": "/crowd-app/static/js/3.77d0580a.chunk.js",
+    "static/js/3.77d0580a.chunk.js.map": "/crowd-app/static/js/3.77d0580a.chunk.js.map",
+    "index.html": "/crowd-app/index.html",
+    "static/css/main.997de0ab.chunk.css.map": "/crowd-app/static/css/main.997de0ab.chunk.css.map",
+    "static/js/2.2fc8cf3a.chunk.js.LICENSE.txt": "/crowd-app/static/js/2.2fc8cf3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91d1f95.js",
+    "static/js/2.2fc8cf3a.chunk.js",
+    "static/css/main.997de0ab.chunk.css",
+    "static/js/main.e746ca88.chunk.js"
+  ]
+}
